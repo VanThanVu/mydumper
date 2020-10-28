@@ -1,6 +1,6 @@
 #!/bin/bash
 dir_backup='/data/thanvv_secops/gossby'
-dir_logfile='/data/thanvv_secops/mydumper_import.log'
+dir_logfile='/data/thanvv_secops/myloader_import.log'
 db_user='root'
 db_pass='#####'
 db_hosts='x.x.x.x'
