@@ -1,0 +1,12 @@
+9prints_gossby.osc_alias                               
+9prints_gossby.osc_anti_cralwer_data                   
+9prints_gossby.osc_anti_crawler_blocked_ip             
+9prints_gossby.osc_anti_crawler_blocked_referer        
+9prints_gossby.osc_auto_ab_product_price_condition     
+9prints_gossby.osc_auto_ab_product_price_group         
+9prints_gossby.osc_auto_ab_product_price_log           
+9prints_gossby.osc_auto_ab_product_price_tracking      
+9prints_gossby.osc_backend_bookmark                    
+9prints_gossby.osc_backend_index                       
+9prints_gossby.osc_backend_logs                        
+9prints_gossby.osc_catalog_2d_image_library   
